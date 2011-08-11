@@ -1,0 +1,16 @@
+body {
+	font-family: Arial;
+	background-color: #fafafa;
+}
+
+h3 {
+	font-size: 2em;
+}
+
+ul {
+	list-style-type: circle;
+}
+
+ol {
+	list-style-type: decimal-leading-zero;
+}
