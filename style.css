@@ -14,3 +14,7 @@ ul {
 ol {
 	list-style-type: decimal-leading-zero;
 }
+
+.beverage-pic {
+  float: right;
+}
